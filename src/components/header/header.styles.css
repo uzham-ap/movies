@@ -1,0 +1,18 @@
+header.Header {
+    display: flex;
+    align-items: center;
+    padding: 1rem 0;
+    justify-content: space-between;
+}
+
+header.Header div:nth-child(2) {
+    display: flex;
+}
+
+header.Header div a {
+    margin: 0 1rem;
+    font-weight: 400;
+    font-size: 18px;
+    color: #E0E0E0;
+
+}
